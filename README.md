@@ -1,4 +1,4 @@
-# 🧬 ARAG_PHARMA — 100% Free Pharmaceutical Intelligence
+# 🧬 ARAG_PHARMA — Adaptable Retreival Augmented generation for Pharmaceuticals
 
 > **Powered by: Groq (free) · FDA · PubMed · ClinicalTrials.gov · Local Embeddings**  
 > 
