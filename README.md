@@ -75,6 +75,9 @@ USER QUERY
 ```bash
 unzip ARAG_PHARMA_V3.zip
 cd ARAG_PHARMA_V3
+**'''Environment setup'''**
+py -m venv venv
+venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
