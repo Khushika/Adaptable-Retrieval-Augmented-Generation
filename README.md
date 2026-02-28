@@ -19,11 +19,11 @@ USER QUERY
 └────────────────────────────┬─────────────────────────────┘
                              ▼
 ┌──────────────────────────────────────────────────────────┐
-│  STEP 2: MULTI-SOURCE LOADER [All FREE APIs]            │
-│  ✅ FDA OpenFDA (drug labels + FAERS)           │
-│  ✅ PubMed NCBI (35M+ articles)                 │
-│  ✅ ClinicalTrials.gov (400K+ trials)           │
-│  ✅ Generic web search                          │
+│  STEP 2: MULTI-SOURCE LOADER [All FREE APIs]             │
+│  ✅ FDA OpenFDA (drug labels + FAERS)                   │
+│  ✅ PubMed NCBI (35M+ articles)                         │
+│  ✅ ClinicalTrials.gov (400K+ trials)                   │
+│  ✅ Generic web search                                  │
 └────────────────────────────┬─────────────────────────────┘
                              ▼
 ┌──────────────────────────────────────────────────────────┐
@@ -37,9 +37,9 @@ USER QUERY
 └────────────────────────────┬─────────────────────────────┘
                              ▼
 ┌──────────────────────────────────────────────────────────┐
-│  STEPS 4-5: FRESHNESS + CONFLICT [Groq + rules]         │
-│  Fix #8: FRESH/AGING/STALE/VERY_STALE penalties         │
-│  Fix #6: LLM conflict detection + trust resolution      │
+│  STEPS 4-5: FRESHNESS + CONFLICT [Groq + rules]          │
+│  Fix #8: FRESH/AGING/STALE/VERY_STALE penalties          │
+│  Fix #6: LLM conflict detection + trust resolution       │
 └────────────────────────────┬─────────────────────────────┘
                              ▼
 ┌──────────────────────────────────────────────────────────┐
