@@ -191,15 +191,6 @@ ARAG_PHARMA_V3/
 
 ---
 
-## ⚠️ Groq Rate Limits (Free Tier)
-
-- **30 requests/minute** per model
-- **14,400 requests/day**
-- The `groq_client.py` handles rate-limit errors automatically with exponential backoff
-- If one model hits limits, it automatically falls back to next in chain
-
----
-
 ## ⚠️ Disclaimer
 
 For educational and research purposes only. Not medical advice.
